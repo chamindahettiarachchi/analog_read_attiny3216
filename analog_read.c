@@ -1,3 +1,4 @@
+// remove LCD related items first
 #define F_CPU 3333333UL
 #include <xc.h>
 #include <avr/io.h>
